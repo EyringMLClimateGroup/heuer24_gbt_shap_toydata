@@ -1,0 +1,1 @@
+This repository contains one notebook demonstrating the application weighted shap value technique to decision tree based ML models (gradient-boosted trees and random forests) as shown in https://doi.org/10.48550/arXiv.2311.03251. The method is adapted from [DOI: 10.1126/sciadv.adj7250](https://doi.org/10.1126/sciadv.adj7250)
